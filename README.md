@@ -10,4 +10,6 @@
 <ul>
     <li><a href="project3/cafe-logo.ai">Project 3 - Chapter Work</a></li>
     <li><a href="project3/zoo-portfolio.ai">Project 3 - Portfolio Builder</a></li>
+    <li><a href="project3/stationery.ai">Project 3 - Chapter Stationery</a></li>
+    <li><a href="project3/zoo-invitation.ai">Project 3 - Portfolio Invite</a></li>
 </ul>
