@@ -21,3 +21,14 @@
     <li><a href="project5/portfolio-brochure.ai">Project 5 - Portfolio Brochure</a></li>
     <li><a href="project5/portfolio-brochure.pdf">Project 5 - PDF Portfolio Brochure</a></li>
 </ul>
+
+<h2>Project 7</h2>
+<ul>
+    <li><a href="project7/prices-graph.ai">Project 7 - Chapter Line Graph</a></li>
+    <li><a href="project7/reasons-graph.ai">Project 7 - Chapter Bar Graph</a></li>
+    <li><a href="project7/favorites-graph.ai">Project 7 - Chapter Pie Chart</a></li>
+    <li><a href="project7/coffee-producers.ai">Project 7 - Chapter Drawing</a></li>
+    <li><a href="project7/fig-one.ai">Project 7 - Portfolio Figure 1</a></li>
+    <li><a href="project7/fig-two.ai">Project 7 - Portfolio Figure 2</a></li>
+    <li><a href="project7/fig-three.ai">Project 7 - Portfolio Figure 3</a></li>
+</ul>
