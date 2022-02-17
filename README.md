@@ -24,7 +24,7 @@
 
 <h2>Project 7</h2>
 <ul>
-    <li><a href="project7/prices-graph.ai">Project 7 - Chapter Line Graph</a></li>
+    <li><a href="project7/price-graph.ai">Project 7 - Chapter Line Graph</a></li>
     <li><a href="project7/reasons-graph.ai">Project 7 - Chapter Bar Graph</a></li>
     <li><a href="project7/favorites-graph.ai">Project 7 - Chapter Pie Chart</a></li>
     <li><a href="project7/coffee-producers.ai">Project 7 - Chapter Drawing</a></li>
