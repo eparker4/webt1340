@@ -32,3 +32,10 @@
     <li><a href="project7/fig-two.ai">Project 7 - Portfolio Figure 2</a></li>
     <li><a href="project7/fig-three.ai">Project 7 - Portfolio Figure 3</a></li>
 </ul>
+
+<h2>Project 8</h2>
+<ul>
+    <li><a href="project8/site-design.ai">Project 8 - Chapter Work</a></li>
+    <li><a href="project8/final-portfolio.ai">Project 8 - Final Portfolio</a></li>
+    <li><a href="project8/final-portfolio.pdf">Project 8 - Final Portfolio PDF</a></li>
+</ul>
