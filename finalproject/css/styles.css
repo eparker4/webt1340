@@ -1,0 +1,159 @@
+/* Global Styles */
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+h2, h3, footer {
+    color: #E99696;
+    text-align: center;
+}
+
+p {
+    color: #E99696;
+}
+
+h1 {
+    color: #D5E400;
+    text-align: center;
+}
+
+#container {
+    background-color: #E99696;
+}
+
+/* End Global Styles */
+
+
+/* Mobile Styles */
+
+header {
+    background-image: url(../images/header_img.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header img {
+    width: 40%;
+    padding-top: 20px;
+}
+
+header h1 {
+    padding-bottom: 10px;
+    text-shadow: 2px 2px 2px #000;
+}
+
+nav {
+    background-color: #E99696;
+    padding: 5px;
+    text-align: center;
+    border-bottom: 2px solid #D5E400;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+
+nav li {
+    display: block;
+}
+
+nav li a {
+    display: block;
+    color: #D5E400;
+    text-decoration: none;
+    font-size: 1.2em;
+    height: 40px;
+    line-height: 40px;
+}
+
+nav li a:hover {
+    background-color: #D5E400;
+    color: #E99696;
+}
+
+main {
+    background-color: #fff;
+    padding: 10px;
+}
+
+#image_gallery img {
+    margin: 10px 0;
+}
+
+footer {
+    padding: 40px 0;
+    border-top: 2px solid #D5E400;
+    color: #D5E400;
+}
+
+/* End Mobile Styles */
+
+/* Tablet Styles */
+@media (min-width: 768px) {
+    header {
+        clear: both;
+        overflow: hidden;
+    }
+    
+    header img{
+        float: left;
+        width: 30%;
+        margin-left: 50px;
+    }
+
+    header h1 {
+        line-height: 225px;
+        font-size: 3em;
+    }
+
+    nav li {
+        display: inline-block;
+    }
+
+    nav li a {
+        width: 150px;
+    }
+
+    #image_gallery {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    #image_gallery img {
+        width: 47.3%;
+        margin: 10px;
+    }
+}
+
+/* End Tablet Styles */
+
+/* Desktop Styles */
+
+@media (min-width: 1024px) {
+    header img {
+        width: 20%;
+        margin-left: 150px;
+    }
+
+    header h1 {
+        font-size: 4em;
+    }
+
+    nav li a {
+        width: 200px;
+        margin: 0 10px;
+        border-radius: 20px;
+    }
+
+    #image_gallery img {
+        width: 32.3%;
+    }
+}
+
+/* End Desktop Styles */

@@ -39,3 +39,8 @@
     <li><a href="project8/final-portfolio.ai">Project 8 - Final Portfolio</a></li>
     <li><a href="project8/final-portfolio.pdf">Project 8 - Final Portfolio PDF</a></li>
 </ul>
+
+<h2>Final Project</h2>
+<ul>
+    <li><a href="finalproject/index.html">Final Project - Final Website</a></li>
+</ul>
