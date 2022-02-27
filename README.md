@@ -43,4 +43,5 @@
 <h2>Final Project</h2>
 <ul>
     <li><a href="finalproject/index.html">Final Project - Final Website</a></li>
+    <li><a href="finalproject/adobe-layoutfinal.xd">Final Project - Final Layout</a></li>
 </ul>
